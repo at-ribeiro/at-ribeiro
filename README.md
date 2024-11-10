@@ -128,7 +128,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/andré-ribeiro-770160292" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-tom%C3%A1s-ribeiro-770160292/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:andretomasribeiro02@gmail.com" target="_blank" rel="noreferrer">
