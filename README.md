@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Master's Student in Computer Science @ NOVA SST with a passion for Game Development.🤓<br>I love everything entertainment and I'm looking for my first hands-on experience as a Game Developer/Programmer.🎮 <br> Currently working on my Master Thesis on room-scale VR Navigation Paradigms. 📃</p> 
+<p align="left">I'm a Master's Student in Computer Science @ NOVA SST with a passion for Game Development.🤓<br>I love everything entertainment and I'm looking for my first hands-on experience as a Game Developer/Programmer.🎮 <br> Currently working on my Master Thesis on room-scale VR Locomotion Paradigms. 📃</p> 
 
 ###
 
