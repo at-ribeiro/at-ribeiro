@@ -22,7 +22,7 @@
   <img width="12" />
 
    <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" height="40" alt="unreal logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unreal logo" />
   </a>
   <img width="12" />
   
