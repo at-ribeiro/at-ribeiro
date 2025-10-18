@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Languages, Frameworks and Tools I know</h2>
+<h2 align="left">Languages, Frameworks and Tools I've worked with</h2>
 
 ###
 <div align="left">
