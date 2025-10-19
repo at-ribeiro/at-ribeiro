@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">I'm a Master's Student in Computer Science @ NOVA SST with a passion for Game Development.🤓<br>I love everything entertainment and I'm looking for my first hands-on experience as a Game Developer/Programmer.🎮 <br> Currently working on my Master Thesis on room-scale VR Locomotion Paradigms. 📃</p> 
+<p align="left">I'm a graduate Master's Student in Computer Science @ NOVA SST with a passion for Game Development.🤓<br>
+  I love everything entertainment and I'm looking for my first hands-on experience as a Game Developer/Programmer.🎮 <br> 
+</p> 
 
 ###
 
@@ -30,12 +32,22 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   </a>
   <img width="12" />
+
+  <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flstudio/flstudio-original.svg" height="40" alt="flstudio logo" />
+  </a>
+  <img width="12" />
+
+  <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/audacity/audacity-original.svg" height="40" alt="audacity logo" />
+  </a>
+  <img width="12" />
   
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" />
   </a>
   <img width="12" />
-  
+
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo" />
   </a>
